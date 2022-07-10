@@ -18,4 +18,4 @@ port: 3306,
 username: 'root',
 password: '123456',
 timezone: '+08:00',
-![image](https://user-images.githubusercontent.com/99119365/178126614-654a5720-3f99-41cc-ab57-7095162755e6.png)
+
